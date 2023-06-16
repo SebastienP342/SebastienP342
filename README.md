@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SebastienP342
-- 👀 I’m interested in DEv WEB and Python
-- 🌱 I’m currently learning Dev web with Odin project
+- 👀 I’m interested in Data scientist, Osint and Python
+- 🌱 I’m currently learning Data scientist process
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
